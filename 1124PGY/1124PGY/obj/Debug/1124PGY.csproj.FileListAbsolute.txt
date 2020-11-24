@@ -1,0 +1,7 @@
+C:\Users\DO2911\source\repos\1124PGY\1124PGY\bin\Debug\1124PGY.exe.config
+C:\Users\DO2911\source\repos\1124PGY\1124PGY\bin\Debug\1124PGY.exe
+C:\Users\DO2911\source\repos\1124PGY\1124PGY\bin\Debug\1124PGY.pdb
+C:\Users\DO2911\source\repos\1124PGY\1124PGY\obj\Debug\1124PGY.csprojAssemblyReference.cache
+C:\Users\DO2911\source\repos\1124PGY\1124PGY\obj\Debug\1124PGY.csproj.CoreCompileInputs.cache
+C:\Users\DO2911\source\repos\1124PGY\1124PGY\obj\Debug\1124PGY.exe
+C:\Users\DO2911\source\repos\1124PGY\1124PGY\obj\Debug\1124PGY.pdb
